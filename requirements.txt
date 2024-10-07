@@ -1,0 +1,11 @@
+datasets 
+swanlab
+peft 
+transformers
+os
+sys
+PyQt5
+re
+torch
+json
+random

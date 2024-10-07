@@ -2,7 +2,7 @@
 
 ## 简介
 
-输入古汉语，输出现代汉语；输入无标点的古汉语，输出有标点的古汉语。基于荀子基座大模型Xunzi-Qwen2-1.5B(https://github.com/Xunzi-LLM-of-Chinese-classics/XunziALLM?tab=readme-ov-file)，用“文言文（古文）- 现代文平行语料”(https://github.com/NiuTrans/Classical-Modern)数据微调训练得到。
+输入古汉语，输出现代汉语；输入无标点的古汉语，输出有标点的古汉语。基于荀子基座大模型Xunzi-Qwen2-1.5B(https://github.com/Xunzi-LLM-of-Chinese-classics/XunziALLM?tab=readme-ov-file )，用“文言文（古文）- 现代文平行语料”(https://github.com/NiuTrans/Classical-Modern )数据微调训练得到。
 
 
 ## 使用说明
